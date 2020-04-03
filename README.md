@@ -7,12 +7,16 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leandrovi/arkit-react-native?color=%2304D361">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/leandrovi/arkit-react-native.svg">
+
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/leandrovi/arkit-react-native.svg">
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/leandrovi/arkit-react-native/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/leandrovi/arkit-react-native?style=social">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/leandrovi/arkit-react-native.svg">
+
+  <a href="https://github.com/leandrovi/arkit-react-native/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/leandrovi/arkit-react-native.svg">
   </a>
 </p>
 
@@ -72,7 +76,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/lean
 
 ---
 
-Made with ♥ by Leandro Vieira :wave: [Get in touch!](https://www.linkedin.com/in/leandrovi/)
+Made with ♥ by Leandro Vieira :wave: [Get in touch!](https://www.linkedin.com/in/leandrofv/)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
