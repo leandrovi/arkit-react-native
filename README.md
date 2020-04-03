@@ -22,7 +22,6 @@
 
 <p align="center">
   <a href="#rocket-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#arrow-app-demo">App Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#wrench-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
@@ -32,12 +31,11 @@
 
 Welcome to my POC (proof of concept) to test **ARKit** with **React Native**!
 
-This project was developed with the guys from [Rocketseat](https://github.com/Rocketseat), following a great step by step from their Code Challenge.
-You can check it out in [this link](https://www.youtube.com/watch?v=k12PTZHaHV4&t=1s).
+This project was developed following the great step by step found in [Expo AR Docs][expoar] and their [awesome example in github](https://github.com/expo/expo-three-ar/tree/master/example).
 
-The main goal was to render the ambar Pokemon in Augmented Reality :heart:
+The main goal was to render a simples three.js cube in Augmented Reality :heart:
 
-## :arrow_forward: App Demo
+### App Screenshot
 
 Under construction.
 
@@ -45,9 +43,10 @@ Under construction.
 
 This project was developed with the following technologies:
 
--  [Expo](https://expo.io/)
--  [React-Native](https://facebook.github.io/react-native/)
--  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
+- [Expo](https://expo.io/)
+- [React-Native](https://facebook.github.io/react-native/)
+- [Expo AR][expoar]
+- [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
 ## :information_source: How To Use
 
@@ -83,3 +82,4 @@ Made with ♥ by Leandro Vieira :wave: [Get in touch!](https://www.linkedin.com/
 [vc]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+[expoar]: https://docs.expo.io/versions/latest/sdk/AR/
