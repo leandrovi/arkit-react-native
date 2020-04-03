@@ -43,6 +43,7 @@ This project was developed with the following technologies:
 
 -  [Expo](https://expo.io/)
 -  [React-Native](https://facebook.github.io/react-native/)
+-  [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
 ## :information_source: How To Use
 
@@ -72,3 +73,9 @@ This project is under the MIT license. See the [LICENSE](https://github.com/lean
 ---
 
 Made with ♥ by Leandro Vieira :wave: [Get in touch!](https://www.linkedin.com/in/leandrovi/)
+
+[nodejs]: https://nodejs.org/
+[yarn]: https://yarnpkg.com/
+[vc]: https://code.visualstudio.com/
+[vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+[vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
